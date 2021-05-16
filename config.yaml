@@ -48,7 +48,7 @@ params:
       icon: ti-dribbble
     - URL: '#'
       icon: ti-twitter-alt
-  theme_color: '#FFBF00'
+  theme_color: '#000000'
 menu:
   main:
     - URL: about
