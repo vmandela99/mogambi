@@ -1,20 +1,20 @@
-baseURL: http://examplesite.com
+baseURL: https://milestofreedom.netlify.app/
 languageCode: en-us
 summaryLength: '10'
 theme: kross-hugo
-title: Kross
+title: Miles To Freedom
 params:
-  address: 125/A, CA Commercial Area, California, USA
-  author: Johnathan Smith
+  address: Nairobi, Kenya
+  author: Abel MOgambi
   contact:
     enable: yes
     form_action: '#'
   cookies:
     enable: yes
     expire_days: 2
-  copyright: Copyright &copy; 2020 a theme by [gethugothemes](https://gethugothemes.com)
+  copyright: Copyright &copy; 2021 a theme by [gethugothemes](https://gethugothemes.com)
   description: This is meta description
-  email: steve.fruits@email.com
+  email: fmogambi77@email.com
   google_analytics_id: ''
   home: Home
   logo: ''
