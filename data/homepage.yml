@@ -5,73 +5,73 @@ banner:
 # about
 about:
   enable : true
-  content : "Karibu, Welcome to Miles to freedom, at miles to freedom we strive to change lives, advocate  for improved living conditions for the vulnerable through creation of awareness, advocacy and prevention measures aimed at ending the vice that is human trafficing in Kenya. We work like minded people and organizations to stop men, women and children from being trafficed within and outside the country. We as well work to advocate for the rights of those already trafficed.  "
+  content : "Karibu, Welcome to Miles to freedom, at miles to freedom we strive to change lives, advocate  for improved living conditions for the vulnerable through creation of awareness, advocacy and prevention measures aimed at ending the vice that is human trafficing in Kenya. We work like minded people and organizations to stop men, women and children from being trafficed within and outside the country. We as well work to advocate for the rights of those already trafficed. We came about as a response to a highly dynamic and thriving human trafficing in the country. Emerging key issues include:- "
   button:
     enable : true
     label : "know more"
     URL : "about"
 
 # skill
-skill:
-  enable : true
-  title : "Skills"
-  item:
-    - title : "Web Design"
-      progress : "90%"
-      color : "#fdb157"
-      
-    - title : "Logo Design"
-      progress : "60%"
-      color : "#9473e6"
-      
-    - title : "After Effects"
-      progress : "80%"
-      color : "#bdecf6"
-      
-    - title : "Web App"
-      progress : "70%"
-      color : "#ffbcaa"
+# skill:
+  # enable : true
+  # title : "Skills"
+  # item:
+  #   - title : "Web Design"
+  #     progress : "90%"
+  #     color : "#fdb157"
+  #     
+  #   - title : "Logo Design"
+  #     progress : "60%"
+  #     color : "#9473e6"
+    #   
+    # - title : "After Effects"
+    #   progress : "80%"
+    #   color : "#bdecf6"
+    #   
+    # - title : "Web App"
+    #   progress : "70%"
+    #   color : "#ffbcaa"
 
-# experience
+# Emerging Key Issues
 experience:
   enable : true
-  title : "Experience"
+  title : "Key Issues"
   item: 
     - logo : "images/experience/icon-1.png"
-      title : "Junior UX Designer"
-      company : "WEBEX"
-      duration : "Jan 2007 - Feb 2009"
+      title : "Victim Protection"
+      #company : "WEBEX"
+      #duration : "Jan 2007 - Feb 2009"
       
     - logo : "images/experience/icon-2.png"
-      title : "UX & UI Designer"
-      company : "AUGMEDIX"
-      duration : "Mar 2009 - Aug 2014"
+      title : "Weak Government Systems in place for monitoring"
+      #company : "AUGMEDIX"
+      #duration : "Mar 2009 - Aug 2014"
       
     - logo : "images/experience/icon-1.png"
-      title : "Senior UI Designer"
-      company : "THEMEFISHER"
-      duration : "Sep 2014 - Present"
+      title : "Human Trafficing networks in existence"
+      #company : "THEMEFISHER"
+      #duration : "Sep 2014 - Present"
 
-# education
-education:
-  enable : true
-  title : "Education"
-  item:
-    - title : "Marters in UX Design"
-      year : "2006"
-      academy : "Masassusets Institute of Technology"
-      
-    - title : "Honours in Fine Arts"
-      year : "2004"
-      academy : "Harvard University"
-      
-    - title : "Higher Secondary Certificat"
-      year : "2000"
-      academy : "Cardiff School"
-      
-    - title : "Secondary School Certificate"
-      year : "1998"
-      academy : "Cardiff School"
+# # education
+# education:
+#   enable : true
+#   title : "Education"
+#   item:
+#     - title : "Marters in UX Design"
+#       year : "2006"
+#       academy : "Masassusets Institute of Technology"
+#       
+#     - title : "Honours in Fine Arts"
+#       year : "2004"
+#       academy : "Harvard University"
+#       
+#     - title : "Higher Secondary Certificat"
+#       year : "2000"
+#       academy : "Cardiff School"
+#       
+#     - title : "Secondary School Certificate"
+#       year : "1998"
+#       academy : "Cardiff School"
 
 # service
 service:
