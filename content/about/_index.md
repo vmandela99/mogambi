@@ -6,8 +6,4 @@ draft: false
 title: Our Work
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.
-
-Deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia.
+Home trafficking is a vice that has taken root and hold in the East African region, to be more specific in Kenya. This illicit trade has caused many families in this region endless heart ache and separation leading to a generation that is heavily traumatized and unable to cope with this trauma finally leading to degradation of lives in the form of depression and other factors that lead to suicide.
