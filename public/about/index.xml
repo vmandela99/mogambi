@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on Miles To Freedom</title>
+    <link>https://milestofreedom.netlify.app/about/</link>
+    <description>Recent content in About on Miles To Freedom</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://milestofreedom.netlify.app/about/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
