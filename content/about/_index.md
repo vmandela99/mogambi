@@ -1,4 +1,6 @@
 ---
+author_image:
+author_signature:
 description: This is meta description.
 draft: false
 title: Our Work

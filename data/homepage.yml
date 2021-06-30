@@ -38,6 +38,11 @@ experience:
   title : "Key Issues"
   item: 
     - logo : "images/experience/icon-2.png"
+      title : "Survivor Assistance"
+      #company : "AUGMEDIX"
+      #duration : "Mar 2009 - Aug 2014"
+
+    - logo : "images/experience/icon-2.png"
       title : "Weak Government Systems in place for monitoring"
       #company : "AUGMEDIX"
       #duration : "Mar 2009 - Aug 2014"
