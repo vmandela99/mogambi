@@ -1,19 +1,19 @@
 # work process
 work_process:
   enable : true
-  title : "Work Process"
+  title : "How We Work"
   item:
-  - title : "Research and Plan"
+  - title : "Awareness Through Literacy"
     icon : "images/icons/plan.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content : "Knowledge is power, we aspire to write about stories of survivors. What they've gone through and how they are coping. This way many people are able to get more information on chid abuse and human trafficking."
     
-  - title : "Design and Develop"
+  - title : "Campaigns Through Social Platforms"
     icon : "images/icons/design.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content : "We aim to spread information on modern day slavery, human trafficking and chid abuse through socila media which has a really big impact and can reach a much wider audience in a short time, this will allow a wider audience recieve this information"
     
-  - title : "Deliver"
+  - title : "Collaboration and Corporation"
     icon : "images/icons/print.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content : "we work with other like minded individuals and organisations in achieving the objectives of miles to freedom through cooperation and collaboration"
 
 
 # team
