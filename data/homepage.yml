@@ -37,11 +37,6 @@ experience:
   enable : true
   title : "Key Issues"
   item: 
-    - logo : "images/experience/v_pro.jpg"
-      title : "Victim Protection"
-      #company : "WEBEX"
-      #duration : "Jan 2007 - Feb 2009"
-      
     - logo : "images/experience/icon-2.png"
       title : "Weak Government Systems in place for monitoring"
       #company : "AUGMEDIX"
