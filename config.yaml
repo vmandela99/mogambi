@@ -52,7 +52,7 @@ params:
 menu:
   main:
     - URL: about
-      name: About
+      name: Our Work
       weight: 1
     - URL: blog
       name: Blog
