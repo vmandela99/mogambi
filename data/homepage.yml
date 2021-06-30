@@ -5,7 +5,7 @@ banner:
 # about
 about:
   enable : true
-  content : "Karibu, Welcome to Miles to freedom, at miles to freedom we strive to change lives, advocate  for improved living conditions for the vulnerable through creation of awareness, advocacy and prevention measures aimed at ending the vice that is human trafficing in Kenya. We work with like minded people and organizations to stop men, women and children from being trafficed within and outside the country. We as well work to advocate for the rights of those already trafficed. We came about as a response to a highly dynamic and thriving human trafficing in the country. Emerging key issues include:- "
+  content : "Karibu, Welcome to Miles to freedom, at miles to freedom we strive to change lives, advocate  for improved living conditions for the vulnerable through creation of awareness, advocacy and prevention measures aimed at ending the vice that is human trafficing in Kenya. We work with like-minded people and organizations to stop men, women and children from being trafficed within and outside the country. We as well work to advocate for the rights of those already trafficed. We came about as a response to a highly dynamic and thriving human trafficing in the country. Emerging key issues include:- "
   button:
     enable : true
     label : "know more"
